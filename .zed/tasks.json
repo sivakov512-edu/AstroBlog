@@ -1,0 +1,9 @@
+// Project tasks configuration. See https://zed.dev/docs/tasks for documentation.
+[
+  {
+    "label": "npm run dev",
+    "command": "npm run dev",
+    // "env": { "foo": "bar" },
+    "reveal": "no_focus"
+  }
+]
